@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Hossein
 ##### Interested in Learning Python, Django, Linux and everything else related to computers. 🌱
-##### currently, I'm learning Django. ⚡
+##### Currently, I'm learning Django. ⚡
 
 
 
