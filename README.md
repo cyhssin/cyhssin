@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋, I'm Hossein
+##### Interested in Learning Python, Django, Linux and everything else related to computers.🌱
+##### currently, I'm learning Django.⚡
+
+
+
 
 <!--
 **cyhssin/cyhssin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
