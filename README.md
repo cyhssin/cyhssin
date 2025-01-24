@@ -1,8 +1,14 @@
-### Hi there 👋, I'm Hossein
-##### Interested in Learning Python, Django, Linux and everything else related to computers. 🌱
-##### Currently, I'm learning Django. ⚡
+### 👋 Hi there, I'm Hossein!  
+💻 A tech enthusiast passionate about **Python**, **Django**, **Linux**, and everything computers.  
+🌱 Currently leveling up my skills in **Django**, **Django REST Framework (DRF)** and **FastAPI**.  
+🚀 Building cool projects to solve real-world problems and learn along the way.  
 
+#### My Projects  
+🛍️ **Shop**: An e-commerce platform with DRF.  
+✅ **Todo**:  A simple to-do app for managing tasks efficiently based DRF.  
+📝 **Blog**: A platform to share ideas, knowledge, and tech insights based Django.  
 
+🔍 Explore my work and contributions on [GitHub](https://github.com/cyhssin/). Let's connect, collaborate, and build something awesome together!  
 
 
 <!--
